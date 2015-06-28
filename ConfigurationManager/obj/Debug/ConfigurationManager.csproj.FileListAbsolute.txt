@@ -1,0 +1,5 @@
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\ConfigurationManager\bin\Debug\ConfigurationManager.dll
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\ConfigurationManager\bin\Debug\ConfigurationManager.pdb
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\ConfigurationManager\obj\Debug\ConfigurationManager.csprojResolveAssemblyReference.cache
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\ConfigurationManager\obj\Debug\ConfigurationManager.dll
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\ConfigurationManager\obj\Debug\ConfigurationManager.pdb
