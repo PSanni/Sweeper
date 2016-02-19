@@ -1,0 +1,1 @@
+Please ConfigurationManager.dll along with compiled binary as dependencies here. 

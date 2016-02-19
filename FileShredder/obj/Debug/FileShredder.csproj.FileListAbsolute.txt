@@ -1,0 +1,12 @@
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\bin\Debug\FileShredder.exe.config
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\bin\Debug\FileShredder.exe
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\bin\Debug\FileShredder.pdb
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\bin\Debug\ConfigurationManager.dll
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\bin\Debug\ConfigurationManager.pdb
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.csprojResolveAssemblyReference.cache
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.QueryExec.resources
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.Shredder.resources
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.Properties.Resources.resources
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.csproj.GenerateResource.Cache
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.exe
+D:\Study\MSc.IT\3-Sem\Pro\Sweeper\FileShredder\obj\Debug\FileShredder.pdb
